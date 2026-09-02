@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Skeletor-Pirate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+Carbon-Aware+Post-Quantum+Control+Planes+(Go);Architecting+Stateful+Multi-Agent+Workflows+(LangGraph);Developing+Multi-Tenant+ERP+%26+Cloud+Platforms;Contributing+to+OpenMRS%2C+Django%2C+and+AppSec+Sandboxes;Software+Development+Intern+%40GridSphere" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+Carbon-Aware+Post-Quantum+Control+Planes+(Go);Architecting+Stateful+Multi-Agent+Workflows+(LangGraph);Developing+Bioinformatics+Security+Engines;Contributing+to+OpenMRS%2C+Django%2C+and+AppSec+Sandboxes;Software+Engineering+Intern+%40GridSphere" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,13 +37,13 @@ Alias: Skeletor-Pirate
 Specialization: Systems Engineering • Post-Quantum Cryptography • AI & Multi-Agent Systems • Full-Stack
 Education: B.Tech in CSE (AI & ML Honors) @ Graphic Era University [SGPA: 9.0 / 8.95] (Class of 2029)
 Experience: 
-  - Software Development Intern @ GridSphere (Full-Stack React/Node.js production features & API endpoints)
+  - Software Development Intern @ GridSphere (Full-Stack React/Node.js features, API endpoints & production integrations)
 Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
 ```
 
 ---
 
-## ⚡ `PROVABLE & OPEN SOURCE PROJECTS ON GITHUB`
+## ⚡ `FLAGSHIP OPEN-SOURCE SYSTEMS & RESEARCH`
 
 <table width="100%">
   <tr>
@@ -80,21 +80,6 @@ Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 <a href="https://github.com/Skeletor-Pirate/portal">portal</a></h3>
-      <p><b>Multi-Tenant Enterprise Portal & Aicos Backend</b></p>
-      <ul>
-        <li><b>Distributed Backend:</b> Django REST framework modular backend with multi-tenant isolation, tenant operations, timetable, and RAG viewer.</li>
-        <li><b>Full-Stack Interfaces:</b> Cross-platform Flutter mobile client and modern React/Tailwind frontend for administrative operations.</li>
-        <li><b>Production Architecture:</b> Docker containerization and role-based access control.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
       <h3>🛡️ <a href="https://github.com/Skeletor-Pirate/Genome_Firewall">Genome_Firewall</a></h3>
       <p><b>Genomic Sequence Security & Defense Framework</b></p>
       <ul>
@@ -107,8 +92,6 @@ Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
         <img src="https://img.shields.io/badge/Security-Pattern_Screening-crimson?style=flat-square" />
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/Skeletor-Pirate/Auric">Auric</a></h3>
       <p><b>High-Performance Data Intelligence & Reasoning Pipelines</b></p>
@@ -122,17 +105,31 @@ Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
         <img src="https://img.shields.io/badge/JSON-Dataset_Harness-blue?style=flat-square" />
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Skeletor-Pirate/voice-blogger">voice-blogger</a> & <a href="https://github.com/Skeletor-Pirate/poss__pager">poss__pager</a></h3>
-      <p><b>Real-Time Audio Streaming & Voice-Driven Communication</b></p>
+      <h3>❄️ <a href="https://github.com/Skeletor-Pirate/ice">ice</a></h3>
+      <p><b>High-Performance Caching & Backend Security Engine</b></p>
       <ul>
-        <li>Low-latency audio transmission and real-time voice streaming pipelines over WebSockets.</li>
-        <li>Interactive voice blogging tools built with Node.js and modern client-side audio APIs.</li>
+        <li>Lightweight backend database caching and security evaluation harness.</li>
+        <li>Optimized query throughput and structured verification test suites.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-Realtime_Audio-010101?style=flat-square" />
-        <img src="https://img.shields.io/badge/Audio-Voice_Streaming-FF5722?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Database-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Testing-Security_Tool-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🇮🇳 <a href="https://github.com/Skeletor-Pirate/bharat-strategix-fixed">bharat-strategix</a></h3>
+      <p><b>Strategic Computational Intelligence Platform</b></p>
+      <ul>
+        <li>Computational modeling and strategic analysis engine built for complex multi-parameter simulations.</li>
+        <li>Clean modularized data ingestion and execution logic.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Analytics-Strategic_Compute-FF9933?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -140,11 +137,23 @@ Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
 
 ---
 
+## 💼 `INDUSTRY & INTERNSHIP ENGINEERING @ GRIDSPHERE`
+
+<p align="left">
+Key engineering accomplishments delivered as a <b>Software Development Intern</b> at <b>GridSphere</b> (Jan 2026 – Present):
+</p>
+
+- 🚀 **Full-Stack Feature Delivery**: Implemented and shipped production-grade features across React frontend and Node.js backend endpoints.
+- 🔌 **API Integration & Core Logic**: Integrated third-party APIs into live applications, ensuring low-latency response cycles and clean error resilience.
+- 🛠️ **Production Diagnostics & Quality**: Debugged and resolved user-facing defects directly in production code with comprehensive test validation and CI/CD reviews.
+
+---
+
 ## 🌐 `VERIFIED OPEN SOURCE & SECURITY CONTRIBUTIONS`
 
 <div align="center">
 <p align="left">
-Hands-on engagements, codebase exploration, and contributions across major open-source ecosystems:
+Hands-on engagements, upstream inspections, and contributions across major open-source ecosystems:
 </p>
 
 <table width="100%">
@@ -191,7 +200,7 @@ Hands-on engagements, codebase exploration, and contributions across major open-
 
 ### ⚙️ Systems, Backend & Cloud Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,spring,react,nextjs,flutter,docker,linux&theme=dark" alt="Systems & Backend" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,spring,react,nextjs,docker,linux&theme=dark" alt="Systems & Backend" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Post--Quantum_PQC-ML--KEM_768-00ADD8?style=for-the-badge" />
