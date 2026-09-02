@@ -35,7 +35,7 @@
 Operator: Saksham Chawla
 Alias: Skeletor-Pirate
 Specialization: Systems Engineering • Post-Quantum Cryptography • AI & Multi-Agent Systems • Full-Stack
-Education: B.Tech in CSE (AI & ML Honors) @ Graphic Era University [SGPA: 9.0 / 8.95] (Class of 2029)
+Education: B.Tech in Computer Science & Engineering @ Graphic Era University [SGPA: 9.0 / 8.95] (Class of 2029)
 Experience: 
   - Software Development Intern @ GridSphere (Full-Stack React/Node.js features, API endpoints & production integrations)
 Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
