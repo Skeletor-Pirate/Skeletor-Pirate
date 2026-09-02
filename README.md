@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=SAKSHAM%20CHAWLA&fontSize=52&fontAlignY=38&desc=AI%20Architecture%20%E2%80%A2%20Autonomous%20Systems%20%E2%80%A2%20Low-Level%20%26%20Edge%20Robotics&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Saksham Chawla - Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,19,25,30&height=240&section=header&text=SAKSHAM%20CHAWLA&fontSize=52&fontAlignY=38&desc=Systems%20Architecture%20%E2%80%A2%20Autonomous%20AI%20%E2%80%A2%20Post-Quantum%20Engineering&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=00f2fe&strokeWidth=1" width="100%" alt="Saksham Chawla - Header Banner" />
 
 <p align="center">
   <a href="https://github.com/Skeletor-Pirate">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Architecting+Verifiable+RL+(RLVR)+%26+Multi-Agent+Systems;Engineering+Generative+Virtual+Filesystems+(FUSE+%2B+PPO);Building+Post-Quantum+Carbon-Aware+Control+Planes+(Go);Designing+Wearable+Tactile+FPV+Robotics+%26+Edge+Sensors;Full-Stack+Production+Engineer+%40GridSphere" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Building+Carbon-Aware+Post-Quantum+Control+Planes+(Go);Architecting+Stateful+Multi-Agent+Workflows+(LangGraph);Developing+Multi-Tenant+ERP+%26+Cloud+Platforms;Contributing+to+OpenMRS%2C+Django%2C+and+AppSec+Sandboxes;Software+Development+Intern+%40GridSphere" alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-Skeletor--Pirate-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://github.com/Skeletor-Pirate?tab=repositories">
-    <img src="https://img.shields.io/badge/Status-Shipping_Autonomous_Systems-00e676?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/Status-Shipping_Code-00e676?style=for-the-badge&logo=codeforces&logoColor=white" alt="Status" />
   </a>
 </p>
 
@@ -34,113 +34,149 @@
 ```yaml
 Operator: Saksham Chawla
 Alias: Skeletor-Pirate
-Specialization: AI/ML Architecture • RLVR & Agentic Loops • Systems Engineering • Edge Robotics
+Specialization: Systems Engineering • Post-Quantum Cryptography • AI & Multi-Agent Systems • Full-Stack
 Education: B.Tech in CSE (AI & ML Honors) @ Graphic Era University [SGPA: 9.0 / 8.95] (Class of 2029)
-Current Mission: 
-  - Software Development Intern @ GridSphere (Production Full-Stack & API Integrations)
-  - Researching Verifiable Reward Loops (RLVR) & Dynamic Virtual Filesystems
-  - Developing Carbon-Aware Post-Quantum Cryptography Control Planes
-Core Philosophy: "Build and verify systems end-to-end rather than assembling standard web demos."
+Experience: 
+  - Software Development Intern @ GridSphere (Full-Stack React/Node.js production features & API endpoints)
+Core Philosophy: "Build, benchmark, and ship verifiable systems end-to-end."
 ```
 
 ---
 
-## ⚡ `CORE ARCHITECTURAL RESEARCH & FLAGSHIP PROJECTS`
+## ⚡ `PROVABLE & OPEN SOURCE PROJECTS ON GITHUB`
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔮 <a href="https://github.com/Skeletor-Pirate">Schrödinger’s Codebase</a></h3>
-      <p><b>Dynamic Virtual Filesystem with Verifiable Reinforcement Learning (RLVR)</b></p>
-      <ul>
-        <li><b>Generative FUSE Layer:</b> Architected a virtual filesystem (<code>fusepy</code>) where directories and executables are synthesized in real-time by a LangChain agent based on traversal context.</li>
-        <li><b>Verifiable Reward Function:</b> Isolated sandbox evaluating AI scripts with strict binary scoring (+1 pass, -0.5 runtime &gt;50ms, -1 error).</li>
-        <li><b>PPO Optimization Loop:</b> Proximal Policy Optimization loop continuously refining policy weights for optimal generated code architectures.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FUSE-fusepy-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/RL-PPO_%26_RLVR-00F2FE?style=flat-square" />
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Skeletor-Pirate/glassbox">Obsidian "Glass Box" Neural Vault</a></h3>
-      <p><b>Transparent Neural Network & Stateful Multi-Agent Orchestrator</b></p>
-      <ul>
-        <li><b>Visual Compute Engine:</b> Maps transparent neural nodes directly to markdown files in an Obsidian vault with wikilinks as synapses, visually tracing rewiring weights during training.</li>
-        <li><b>Stateful Orchestration:</b> LangGraph routing engine delegating complex refactoring and deep research to specialized execution vaults.</li>
-        <li><b>Air-Gapped Sandbox:</b> Isolated VM evaluation matrix monitoring autonomous terminal execution against deliberate privilege escalation.</li>
-      </ul>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Obsidian-Graph_DB-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security-VM_Sandbox-red?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/Skeletor-Pirate/quant-harvest">Q-HARVEST: Post-Quantum Engine</a></h3>
+      <h3>🌱 <a href="https://github.com/Skeletor-Pirate/quant-harvest">quant-harvest</a></h3>
       <p><b>Carbon-Aware Post-Quantum Cryptography Control Plane in Go</b></p>
       <ul>
-        <li><b>Grid-Aware Scheduler:</b> Defers heavy ML-KEM post-quantum batch encryption jobs until regional power grid carbon intensity is lowest.</li>
-        <li><b>High-Throughput Core:</b> Powered by Go concurrency, SQLite in WAL mode, and Prometheus instrumentation for real-time telemetry.</li>
-        <li><b>Security & Green Compute:</b> Combines NIST-standardized PQC cryptography with zero-emission scheduling logic.</li>
+        <li><b>Grid-Aware Scheduling:</b> Defers heavy ML-KEM post-quantum batch workloads until regional power grid carbon intensity is lowest.</li>
+        <li><b>High-Throughput Concurrency:</b> Built in Go with SQLite WAL mode, Prometheus instrumentation, and carbon telemetry metrics.</li>
+        <li><b>Zero-Emission Cryptography:</b> Combines post-quantum key encapsulation with emission-minimized job dispatch.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
         <img src="https://img.shields.io/badge/PQC-ML--KEM-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Storage-SQLite_WAL-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/Metrics-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Telemetry-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/Skeletor-Pirate">Tactile FPV Drone Combat System</a></h3>
-      <p><b>Dual-Glove Wearable Gesture Flight & Target Actuation System</b></p>
+      <h3>🧠 <a href="https://github.com/Skeletor-Pirate/glassbox">glassbox</a></h3>
+      <p><b>Obsidian "Glass Box" Neural Vault & Agent Orchestrator</b></p>
       <ul>
-        <li><b>Inertial Kinematics:</b> Right-hand IMU gyroscope module translating hand tilt/gestures into low-latency sub-millisecond drone flight controls.</li>
-        <li><b>Heads-Up Telemetry:</b> Left-glove Raspberry Pi with visual display receiving real-time live FPV video streaming.</li>
-        <li><b>Remote Actuation:</b> Custom hardware triggering a drone-mounted mini paintball targeting and firing mechanism over RF/IoT channels.</li>
+        <li><b>Visual Compute Engine:</b> Maps transparent neural nodes directly to markdown files in an Obsidian vault with wikilinks as synapses.</li>
+        <li><b>Stateful Orchestration:</b> LangGraph routing engine delegating complex refactoring and deep research to specialized execution vaults.</li>
+        <li><b>Sandboxed Execution:</b> Safe runtime environment for autonomous agents to execute and evaluate code safely.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Hardware-Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sensors-Gyroscope_IMU-blue?style=flat-square" />
-        <img src="https://img.shields.io/badge/Microcontrollers-ESP32_/_Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/Embedded-IoT_Actuation-yellow?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/Obsidian-Graph_Vault-7C3AED?style=flat-square&logo=obsidian&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-Sandboxed_Runtime-red?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 <a href="https://github.com/Skeletor-Pirate/portal">portal</a></h3>
+      <p><b>Multi-Tenant Enterprise Portal & Aicos Backend</b></p>
+      <ul>
+        <li><b>Distributed Backend:</b> Django REST framework modular backend with multi-tenant isolation, tenant operations, timetable, and RAG viewer.</li>
+        <li><b>Full-Stack Interfaces:</b> Cross-platform Flutter mobile client and modern React/Tailwind frontend for administrative operations.</li>
+        <li><b>Production Architecture:</b> Docker containerization and role-based access control.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ <a href="https://github.com/Skeletor-Pirate/Genome_Firewall">Genome_Firewall</a></h3>
+      <p><b>Genomic Sequence Security & Defense Framework</b></p>
+      <ul>
+        <li><b>Bio-Data Inspection:</b> High-performance parsing and threat analysis for synthetic DNA/RNA sequence data.</li>
+        <li><b>Security Guardrails:</b> Algorithmic screening to detect anomalous biological constructs and potential biosecurity vulnerabilities.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bioinformatics-Genomic_Security-teal?style=flat-square" />
+        <img src="https://img.shields.io/badge/Security-Pattern_Screening-crimson?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>✨ <a href="https://github.com/Skeletor-Pirate/Auric">Auric</a></h3>
-      <p><b>High-Performance Data Intelligence & Autonomous Agent Framework</b></p>
+      <p><b>High-Performance Data Intelligence & Reasoning Pipelines</b></p>
       <ul>
-        <li>Modular agentic pipelines engineered for structured synthetic generation, dynamic routing, and fast local reasoning.</li>
-        <li>Production-grade dataset evaluation pipelines and benchmark harnesses.</li>
+        <li>Modular agentic pipelines for synthetic data generation, structured dataset curation, and benchmark evaluation.</li>
+        <li>Fast local reasoning loops and dataset quality scoring engines.</li>
       </ul>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-Agentic_Data_Engine-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI-Data_Intelligence-blueviolet?style=flat-square" />
+        <img src="https://img.shields.io/badge/JSON-Dataset_Harness-blue?style=flat-square" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎙️ <a href="https://github.com/Skeletor-Pirate/voice-blogger">Poss Pager & Voice Blogger</a></h3>
-      <p><b>Real-Time Audio Streaming & Voice-Driven Agent Interaction</b></p>
+      <h3>🎙️ <a href="https://github.com/Skeletor-Pirate/voice-blogger">voice-blogger</a> & <a href="https://github.com/Skeletor-Pirate/poss__pager">poss__pager</a></h3>
+      <p><b>Real-Time Audio Streaming & Voice-Driven Communication</b></p>
       <ul>
-        <li>Interactive voice-controlled agents, low-latency audio transmission, and real-time transcription pipelines.</li>
-        <li>Built for edge devices and lightweight browser nodes.</li>
+        <li>Low-latency audio transmission and real-time voice streaming pipelines over WebSockets.</li>
+        <li>Interactive voice blogging tools built with Node.js and modern client-side audio APIs.</li>
       </ul>
       <p>
-        <img src="https://img.shields.io/badge/Audio-Voice_Streaming-FF5722?style=flat-square" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-Realtime-010101?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebSockets-Realtime_Audio-010101?style=flat-square" />
+        <img src="https://img.shields.io/badge/Audio-Voice_Streaming-FF5722?style=flat-square" />
       </p>
     </td>
   </tr>
 </table>
+
+---
+
+## 🌐 `VERIFIED OPEN SOURCE & SECURITY CONTRIBUTIONS`
+
+<div align="center">
+<p align="left">
+Hands-on engagements, codebase exploration, and contributions across major open-source ecosystems:
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🏥 Healthcare & Global Goods</h4>
+      <ul>
+        <li><a href="https://github.com/Skeletor-Pirate/openmrs-core"><b>OpenMRS Core</b></a> — Global medical record system backend architecture.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/openmrs-esm-core"><b>OpenMRS ESM Core</b></a> — Microfrontend 3.0 frontend platform.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/openmrs-module-webservices.rest"><b>OpenMRS REST API</b></a> — Enterprise RESTful web services.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🐍 Web & Testing Ecosystems</h4>
+      <ul>
+        <li><a href="https://github.com/Skeletor-Pirate/django"><b>Django</b></a> — Web framework internals & asynchronous handlers.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/wagtail"><b>Wagtail CMS</b></a> — Enterprise Django content management system.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/pytest"><b>Pytest</b></a> — Python testing and assertion harnesses.</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔒 Application Security & AppSec</h4>
+      <ul>
+        <li><a href="https://github.com/Skeletor-Pirate/juice-shop"><b>OWASP Juice Shop</b></a> — Modern web application security testing.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/WebGoat"><b>OWASP WebGoat</b></a> — Hands-on vulnerability analysis.</li>
+        <li><a href="https://github.com/Skeletor-Pirate/CheatSheetSeries"><b>OWASP Cheat Sheet</b></a> — AppSec best practices & defenses.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -150,58 +186,25 @@ Core Philosophy: "Build and verify systems end-to-end rather than assembling sta
 
 ### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,ts,js,c,cpp,java,bash&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,c,java,bash&theme=dark" alt="Languages" />
 </p>
 
-### 🧠 AI / ML, Reinforcement Learning & Multi-Agent Frameworks
+### ⚙️ Systems, Backend & Cloud Infrastructure
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,fastapi,flask&theme=dark" alt="AI Frameworks" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,spring,react,nextjs,flutter,docker,linux&theme=dark" alt="Systems & Backend" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Reinforcement_Learning-RLVR_%2F_PPO-00f2fe?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangGraph-Stateful_Workflows-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-Autonomous_Agents-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/DeepSeek_/_Gemini-API_Orchestration-007ACC?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
-### ⚙️ Systems, Virtualization, Web & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,react,nextjs,tailwind,linux,docker&theme=dark" alt="Systems & Web" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/FUSE-fusepy_Filesystems-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Virtualization-Air--Gapped_VMs-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Post--Quantum_PQC-ML--KEM_768-00ADD8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-Stateful_Workflows-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST_APIs-OpenAPI_%26_Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-### 🔌 Hardware, IoT & Embedded Robotics
+### 🗄️ Databases & Telemetry
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,arduino&theme=dark" alt="Hardware" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ESP32-Microcontrollers-00979D?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors-IMU_Gyro_%2F_Ultrasonic-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPV_Video-Low_Latency_Telemetry-9C27B0?style=for-the-badge" />
-</p>
-
-### 🗄️ Databases & Storage Engines
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,mongodb,firebase,redis&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=sqlite,postgres,mysql,firebase,redis,prometheus&theme=dark" alt="Databases & Telemetry" />
 </p>
 
 </div>
-
----
-
-## 🛡️ `OPEN SOURCE COLLABORATIONS & SECURITY EXPLORATION`
-
-<p align="left">
-Actively engaging with and inspecting critical open-source ecosystems, frameworks, and application security sandboxes:
-</p>
-
-- 🌐 **Ecosystem Contributions & Analysis:** Exploration & testing in **Django**, **Wagtail CMS**, **OpenMRS (Medical Record System)**, and **Pytest**.
-- 🔒 **AppSec & Vulnerability Sandboxing:** Hands-on defensive auditing with **OWASP Juice Shop**, **WebGoat**, and **OWASP Cheat Sheet Series**.
-- ⚡ **Go Ecosystem:** Benchmarking and building high-concurrency tooling within the **Awesome Go** ecosystem.
 
 ---
 
@@ -240,7 +243,7 @@ Actively engaging with and inspecting critical open-source ecosystems, framework
 <div align="center">
 
 <p align="center">
-  <b>Let's collaborate on AI architectures, verifiable reinforcement learning systems, or high-performance hardware/software platforms!</b>
+  <b>Let's collaborate on post-quantum systems, distributed backends, or agentic architectures!</b>
 </p>
 
 <p align="center">
